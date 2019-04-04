@@ -1,10 +1,10 @@
 MENTOR MEETUP
 -------------
-You can see website here: https://shamansarii.github.io/css-conf/
+You can see website here: https://shamansarii.github.io/mentor-meetup/.
 
 ### APP FEATURES
 
-1. The app is a soft css conf. Css conf only hover. 
+1. The app is a soft mentor meetup. Mentor Meetup only hover. 
 
 ### INGREDIENTS
 
